@@ -65,3 +65,10 @@ section {
     display: inline-block;
 
 }
+
+.win-Counter {
+    font-weight: 100;
+    font-family: sans-serif;
+    transform: translateY(-400px);
+    margin-left: 75px;
+}
