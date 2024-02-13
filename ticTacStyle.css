@@ -67,8 +67,18 @@ section {
 }
 
 .win-Counter {
+    display: inline-block;
     font-weight: 100;
     font-family: sans-serif;
     transform: translateY(-400px);
     margin-left: 75px;
+}
+
+.timerContainer{
+    display: inline-block;
+    font-weight: 100;
+    font-family: sans-serif;
+    transform: translateY(-350px);
+    margin-left: 75px;
+
 }
